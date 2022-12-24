@@ -2,7 +2,7 @@
 # AdventOfCode2022 - Day01 Part02
 
 
-f = open("input.txt")
+f = open("Day01-input.txt")
 data = f.read().split("\n")
 f.close()
 
